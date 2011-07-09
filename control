@@ -1,0 +1,9 @@
+Package: com.abart997.playinglyrics
+Name: PlayingLyrics
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show playing lyrics via Activator
+Maintainer: Andrea Oliva
+Author: Andrea Oliva
+Section: Tweaks
