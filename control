@@ -1,6 +1,6 @@
 Package: com.abart997.playinglyrics
 Name: PlayingLyrics
-Depends: mobilesubstrate
+Depends: mobilesubstrate, libactivator, firmware (>= 4.0)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Show playing lyrics via Activator
